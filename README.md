@@ -4,7 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik%20Khaji%20Mohammed%20Siddiq-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-khaji-mohammed-siddiq-8ba852378/)
 [![GitHub](https://img.shields.io/badge/GitHub-siddiq9989-black?style=flat&logo=github)](https://github.com/siddiq9989)
 [![Email](https://img.shields.io/badge/Email-skmsiddiq123@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:skmsiddiq123@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Andhra%20Pradesh,%20Kadapa%20Dist,%20Mydukur-green)](#)
+[![Location](https://img.shields.io/badge/Location-Andhra%20Pradesh,%20Mydukur-green)](#)
+
 
 
 
